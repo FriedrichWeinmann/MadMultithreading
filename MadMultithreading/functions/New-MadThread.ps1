@@ -5,7 +5,7 @@
 		Start given PowerShell script in a new thread
 	
 	.DESCRIPTION
-		A detailed description of the New-MadThread function.
+		Start given PowerShell script in a new thread
 	
 	.PARAMETER ScriptBlockUnique
 		ScriptBlock to run in the new thread
