@@ -1,0 +1,12 @@
+TOPIC
+	about_MadMultithreading
+	
+SHORT DESCRIPTION
+	A short synopsis of MadMultithreading
+
+LONG DESCRIPTION
+	A more detailed description of MadMultithreading,
+	Should tell the user how to get started with this module.
+	
+KEYWORDS
+	module development debugging
