@@ -1,0 +1,11 @@
+
+# ignore the settings folder and files for VSCode and PSS
+.vscode/*
+*.psproj
+*TempPoint*
+
+# ignore PowerShell Studio MetaData
+MadMultithreading/MadMultithreading.psproj
+MadMultithreading/MadMultithreading.psproj.bak
+MadMultithreading/MadMultithreading.psprojs
+MadMultithreading/MadMultithreading.psproj
